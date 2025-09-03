@@ -1,0 +1,24 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build outputs
+bin/
+build/
+target/
+out/
+
+# Gradle/Maven
+.gradle/
+**/build/
+**/target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE(optional)
+.idea/
+*.iml
+
