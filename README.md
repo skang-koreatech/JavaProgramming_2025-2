@@ -6,7 +6,7 @@
 
 
 ---
-이 저장소는 자바프로그래밍 교과목 예제코드 저장소입니다.
+이 저장소는 자바프로그래밍 교과목 수업자료 저장소입니다.
 
 ---
 Seungwoo Kang, School of Computer Science and Engineering, KOREATECH
