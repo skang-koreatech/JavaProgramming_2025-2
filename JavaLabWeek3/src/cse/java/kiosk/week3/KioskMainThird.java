@@ -13,9 +13,6 @@ public class KioskMainThird {
         String[] menuNames  = {"김치찌개", "불고기", "된장찌개", "제육볶음", "콜라", "사이다", "아메리카노"};
         int[]    menuPrices = {7000,       9000,      6500,       8000,       2000,   2000,    3000};
         String[] menuCategories = {"식사", "식사", "식사", "식사", "음료", "음료", "커피"};
-        
-        // 장바구니: 메뉴별 수량을 저장 (메뉴와 동일한 길이)
-        int[] cartQty = new int[menuNames.length];
 
         while (running) {
             // 메뉴 출력
