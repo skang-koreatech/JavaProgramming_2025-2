@@ -98,7 +98,7 @@ class Cart {
         return sum; 
     }
 
-    // TODO 4: 장바구니 내역 출력
+    // TODO 3: 장바구니 내역 출력
     public void printCart() {
         System.out.println("=== CART ===");
         
